@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+title: G-Tomo
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Nick
+    family-names: Cox
+    email: nick.cox@acri-st.fr
+    affiliation: ACRI-ST
+    orcid: 'https://orcid.org/'
+identifiers:
+  - type: doi
+    value: 
+repository-code: 'https://gitlab.acri-cwa.fr/project-explore/sda-gtomo-mini'
+url: 'https://explore-platform.eu'
+repository: 'https://ascl.net/'
+repository-artifact: ''
+abstract: |-
+  The G-Tomo scientific data application provides 3 main services:
+  1) line-of-sight differential and cumulative extinction profiles (1D)
+  2) integrated extinction for given astrophysical coordinate+distance
+  3) 2d slices of the 3d extinction data cube
+keywords:
+  - extinction
+  - interstellar medium (ISM)
+  - galactic
+license: Apache-2.0
+version: v2
+date-released: '2022-00-00'

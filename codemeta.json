@@ -1,0 +1,68 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "license": "https://spdx.org/licenses/Apache-2.0",
+    "codeRepository": "https://gitlab.acri-cwa.fr/project-explore/sda-gtomo-mini",
+    "dateCreated": "2021-01-01",
+    "datePublished": "2021-01-01",
+    "dateModified": "2023-10-01",
+    "issueTracker": "https://gitlab.acri-cwa.fr/project-explore/sda-gtomo-mini/-/issues",
+    "name": "G-Tomo",
+    "version": "2.0",
+    "description": "The G-Tomo scientific data application (SDA) created by the EXPLORE project allows users to extract 1d profiles and 2d maps from the latest 3d dust extinction maps based on Gaia eDR3 and 2MASS data (Lallement et al. 2022).",
+    "applicationCategory": "Astronomy",
+    "funding": "This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 101004214.",
+    "developmentStatus": "active",
+    "isPartOf": "https://explore-platform.eu",
+    "referencePublication": "https://doi.org/10.1051/0004-6361/202243319",
+    "readme": "https://explore-platform.eu/sdas/about/gtomo",
+    "softwareVersion": "2.0",
+    "funder": {
+        "@type": "Organization",
+        "name": "European Commission"
+    },
+    "keywords": [
+        "Projects: EXPLORE",
+        "Gaia; Content: Astronomy",
+        "Extinction",
+        "Galactic",
+        "Interstellar Medium"
+    ],
+    "programmingLanguage": [
+        "Python"
+    ],
+    "operatingSystem": [
+        "Docker"
+    ],
+    "softwareRequirements": [
+        "Visualiser"
+    ],
+    "citation": [
+        {
+        "2022A&A...664A.174V"
+        }
+    ],
+    "citation": [
+        {
+        "EXPLORE"
+        }
+    ],
+    "author": [
+        {
+            "@type": "Person",
+            "givenName": "Nick Cox"
+        }
+    ],
+    "maintainer": [
+        {
+            "@type": "Person",
+            "givenName": "Nick",
+            "familyName": "Cox",
+            "email": "nick.cox@acri-st.fr",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "ACRI-ST"
+            }
+        }
+    ]
+}
